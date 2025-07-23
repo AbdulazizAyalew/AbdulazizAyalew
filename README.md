@@ -90,7 +90,6 @@ A student and developer who believes in solving the problems many people overloo
 ![Abdulaziz's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulazizayalew&theme=tokyo-night&color=5BC0BE&point=77BEF0&custom_title=Contribution%20Stat)
 
 <hr>
-hr
 
 
 <div align = "center" >
