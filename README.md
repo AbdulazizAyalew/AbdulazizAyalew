@@ -14,7 +14,7 @@ A student and developer who believes in solving the problems many people overloo
 
  <!-- Github Readme Stats -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulazizAyalew&show_icons=true&theme=transparent"  />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulazizAyalew&show_icons=true&theme=transparent&cache_seconds=1800"  />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
