@@ -64,7 +64,9 @@ A student and developer who believes in solving the problems many people overloo
   &nbsp;
   ![](https://skillicons.dev/icons?i=js)
   &nbsp;
-  ![](https://skillicons.dev/icons?i=tailwind)
+  ![](https://skillicons.dev/icons?i=flutter)
+  &nbsp;
+  ![](https://skillicons.dev/icons?i=react)
   &nbsp;
 
 #### ⛏️ Backend Development & Database Services
