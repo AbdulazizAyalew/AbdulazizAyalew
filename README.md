@@ -9,7 +9,7 @@ A student and developer who believes in solving the problems many people overloo
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbdulazizAyalew&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbdulazizAyalew&show_icons=false&theme=transparent" />
 </p>
 
 
