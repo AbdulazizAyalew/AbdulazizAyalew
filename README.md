@@ -78,8 +78,6 @@ A student and developer who believes in solving the problems many people overloo
   &nbsp;
   ![](https://skillicons.dev/icons?i=react)
   &nbsp;
-  ![](https://skillicons.dev/icons?i=dart)
-  &nbsp;
   ![](https://skillicons.dev/icons?i=java)
   &nbsp;
 #### ⛏️ Backend Development & Database Services
