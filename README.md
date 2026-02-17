@@ -7,7 +7,6 @@
 A student and developer who believes in solving the problems many people overlook or avoid. I believe in thinking differently, building creatively, and approaching challenges with fresh solutions.Whether it's Creating Useful tools, building Telegram Bots, or developing Back - End Projects, I aim to do every task with excellence. My Goal is to be known not just as a coder, but as someone who brings new ideas to life and makes a real impact through technology.
 
 </div>
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AbdulazizAyalew&show_icons=false&theme=transparent" />
 </p>
