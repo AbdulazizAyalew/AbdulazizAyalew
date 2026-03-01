@@ -79,6 +79,8 @@ A student and developer who believes in solving the problems many people overloo
   &nbsp;
   ![](https://skillicons.dev/icons?i=java)
   &nbsp;
+  ![](https://skillicons.dev/icons?i=typescript)
+  &nbsp;
 #### ⛏️ Backend Development & Database Services
 
   ![](https://skillicons.dev/icons?i=python)
