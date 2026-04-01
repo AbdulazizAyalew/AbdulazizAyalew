@@ -85,11 +85,13 @@ A student and developer who believes in solving the problems many people overloo
 
   ![](https://skillicons.dev/icons?i=python)
   &nbsp;
-  ![](https://skillicons.dev/icons?i=php)
-  &nbsp;
   ![](https://skillicons.dev/icons?i=django)
   &nbsp;
   ![](https://skillicons.dev/icons?i=mysql)
+  &nbsp;
+  ![](https://skillicons.dev/icons?i=express)
+  &nbsp;
+  ![](https://skillicons.dev/icons?i=mongodb)
   &nbsp;
 
 
